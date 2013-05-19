@@ -373,7 +373,7 @@ msgid "অনুগ্রহ করে একটু পর আবার চে�
 msgstr ""
 
 #: wp-forecast-show.php:255
-msgid "time"
+msgid "সময়"
 msgstr ""
 
 #: wp-forecast-show.php:295
@@ -393,27 +393,27 @@ msgid "winds"
 msgstr ""
 
 #: wp-forecast-show.php:320
-msgid "sunrise"
+msgid "সূর্যোদয়"
 msgstr ""
 
 #: wp-forecast-show.php:324
-msgid "sunset"
+msgid "সূর্যাস্ত"
 msgstr ""
 
 #: wp-forecast-show.php:374
-msgid "day"
+msgid "দিন"
 msgstr ""
 
 #: wp-forecast-show.php:430
-msgid "night"
+msgid "রাত"
 msgstr ""
 
 #: wp-forecast-show.php:488 wp-forecast-show.php:489
-msgid "Less forecast..."
+msgid "কম দেখান"
 msgstr ""
 
 #: wp-forecast-show.php:490
-msgid "More forecast..."
+msgid "আরও পূর্বাভাস"
 msgstr ""
 
 #: wp-forecast.php:419
@@ -422,11 +422,11 @@ msgid "wp-forecast %s"
 msgstr ""
 
 #: wpf_sa_admin.php:64
-msgid "wp-forecast plugin not found. Please install and activate wp-forecast."
+msgid "wp-forecast প্লাগিনটি খুঁজে পাওয়া যায়নি। অনুগ্রহ করে wp-forecast ইন্সটল করে সক্রিয়"
 msgstr ""
 
 #: wpf_sa_admin.php:205
-msgid "Check the colored checkboxes to user enable the options"
+msgid "ব্যবহারকারী দ্বারা অপশন নির্বাচনের সুবিধা দেয়ার জন্য রঙ্গিন চেকবক্স ব্যবহার করুন।"
 msgstr ""
 
 #: wpf_sa_admin.php:210
@@ -458,211 +458,211 @@ msgid "loc"
 msgstr ""
 
 #: xgettextdummy.php:6
-msgid "01"
+msgid "০১"
 msgstr ""
 
 #: xgettextdummy.php:7
-msgid "02"
+msgid "০২"
 msgstr ""
 
 #: xgettextdummy.php:8
-msgid "03"
+msgid "০৩"
 msgstr ""
 
 #: xgettextdummy.php:9
-msgid "04"
+msgid "০৪"
 msgstr ""
 
 #: xgettextdummy.php:10
-msgid "05"
+msgid "০৫"
 msgstr ""
 
 #: xgettextdummy.php:11
-msgid "06"
+msgid "০৬"
 msgstr ""
 
 #: xgettextdummy.php:12
-msgid "07"
+msgid "০৭"
 msgstr ""
 
 #: xgettextdummy.php:13
-msgid "08"
+msgid "০৮"
 msgstr ""
 
 #: xgettextdummy.php:14
-msgid "11"
+msgid "১১"
 msgstr ""
 
 #: xgettextdummy.php:15
-msgid "12"
+msgid "১২"
 msgstr ""
 
 #: xgettextdummy.php:16
-msgid "13"
+msgid "১৩"
 msgstr ""
 
 #: xgettextdummy.php:17
-msgid "14"
+msgid "১৪"
 msgstr ""
 
 #: xgettextdummy.php:18
-msgid "15"
+msgid "১৫"
 msgstr ""
 
 #: xgettextdummy.php:19
-msgid "16"
+msgid "১৬"
 msgstr ""
 
 #: xgettextdummy.php:20
-msgid "17"
+msgid "১৭"
 msgstr ""
 
 #: xgettextdummy.php:21
-msgid "18"
+msgid "১৮"
 msgstr ""
 
 #: xgettextdummy.php:22
-msgid "19"
+msgid "১৯"
 msgstr ""
 
 #: xgettextdummy.php:23
-msgid "20"
+msgid "২০"
 msgstr ""
 
 #: xgettextdummy.php:24
-msgid "21"
+msgid "২১"
 msgstr ""
 
 #: xgettextdummy.php:25
-msgid "22"
+msgid "২২"
 msgstr ""
 
 #: xgettextdummy.php:26
-msgid "23"
+msgid "২৩"
 msgstr ""
 
 #: xgettextdummy.php:27
-msgid "24"
+msgid "২৪"
 msgstr ""
 
 #: xgettextdummy.php:28
-msgid "25"
+msgid "২৫"
 msgstr ""
 
 #: xgettextdummy.php:29
-msgid "26"
+msgid "২৬"
 msgstr ""
 
 #: xgettextdummy.php:30
-msgid "29"
+msgid "২৯"
 msgstr ""
 
 #: xgettextdummy.php:31
-msgid "30"
+msgid "৩০"
 msgstr ""
 
 #: xgettextdummy.php:32
-msgid "31"
+msgid "৩১"
 msgstr ""
 
 #: xgettextdummy.php:33
-msgid "32"
+msgid "৩২"
 msgstr ""
 
 #: xgettextdummy.php:34
-msgid "33"
+msgid "৩৩"
 msgstr ""
 
 #: xgettextdummy.php:35
-msgid "34"
+msgid "৩৪"
 msgstr ""
 
 #: xgettextdummy.php:36
-msgid "35"
+msgid "৩৫"
 msgstr ""
 
 #: xgettextdummy.php:37
-msgid "36"
+msgid "৩৬"
 msgstr ""
 
 #: xgettextdummy.php:38
-msgid "37"
+msgid "৩৭"
 msgstr ""
 
 #: xgettextdummy.php:39
-msgid "38"
+msgid "৩৮"
 msgstr ""
 
 #: xgettextdummy.php:40
-msgid "39"
+msgid "৩৯"
 msgstr ""
 
 #: xgettextdummy.php:41
-msgid "40"
+msgid "৪০"
 msgstr ""
 
 #: xgettextdummy.php:42
-msgid "41"
+msgid "৪১"
 msgstr ""
 
 #: xgettextdummy.php:43
-msgid "42"
+msgid "৪২"
 msgstr ""
 
 #: xgettextdummy.php:44
-msgid "43"
+msgid "৪৩"
 msgstr ""
 
 #: xgettextdummy.php:45
-msgid "44"
+msgid "৪৪"
 msgstr ""
 
 #: xgettextdummy.php:46
-msgid "Monday"
+msgid "সোমবার"
 msgstr ""
 
 #: xgettextdummy.php:47
-msgid "Tuesday"
+msgid "মঙ্গলবার"
 msgstr ""
 
 #: xgettextdummy.php:48
-msgid "Wednesday"
+msgid "বুধবার"
 msgstr ""
 
 #: xgettextdummy.php:49
-msgid "Thursday"
+msgid "বৃহস্পতিবার"
 msgstr ""
 
 #: xgettextdummy.php:50
-msgid "Friday"
+msgid "শুক্রবার"
 msgstr ""
 
 #: xgettextdummy.php:51
-msgid "Saturday"
+msgid "শনিবার"
 msgstr ""
 
 #: xgettextdummy.php:52
-msgid "Sunday"
+msgid "রবিবার"
 msgstr ""
 
 #: xgettextdummy.php:53
-msgid "N"
+msgid "উঃ"
 msgstr ""
 
 #: xgettextdummy.php:54
-msgid "E"
+msgid "পূঃ"
 msgstr ""
 
 #: xgettextdummy.php:55
-msgid "W"
+msgid "পঃ"
 msgstr ""
 
 #: xgettextdummy.php:56
-msgid "S"
+msgid "দঃ"
 msgstr ""
 
 #: xgettextdummy.php:57
-msgid "30% Chance Drizzle"
+msgid "গুঁড়ি গুঁড়ি ব্রষ্টি হবার সম্ভাবনা ৩০%"
 msgstr ""
 
 #: xgettextdummy.php:58
@@ -682,7 +682,7 @@ msgid "30% Chance Frozen Mix"
 msgstr ""
 
 #: xgettextdummy.php:62
-msgid "30% Chance Rain Shower"
+msgid "বৃষ্টিপাতের সম্ভাবনা ৩০%"
 msgstr ""
 
 #: xgettextdummy.php:63
@@ -694,7 +694,7 @@ msgid "30% Chance of Drizzle"
 msgstr ""
 
 #: xgettextdummy.php:65 xgettextdummy.php:66
-msgid "30% Chance of Flurry"
+msgid "ভারী বৃষ্টিপাতের সম্ভাবনা ৩০%"
 msgstr ""
 
 #: xgettextdummy.php:67
@@ -706,7 +706,7 @@ msgid "30% Chance of Light Snow"
 msgstr ""
 
 #: xgettextdummy.php:69
-msgid "30% Chance of Rain"
+msgid "বৃষ্টিপাতের সম্ভাবনা ৩০%"
 msgstr ""
 
 #: xgettextdummy.php:70
@@ -718,11 +718,11 @@ msgid "30% Chance of Snow"
 msgstr ""
 
 #: xgettextdummy.php:72
-msgid "30% Chance of Storms"
+msgid "ঝড়ের সম্ভাবনা ৩০%"
 msgstr ""
 
 #: xgettextdummy.php:73
-msgid "40% Chance Drizzle"
+msgid "গুঁড়ি গুঁড়ি ব্রষ্টি হবার সম্ভাবনা ৪০%"
 msgstr ""
 
 #: xgettextdummy.php:74
