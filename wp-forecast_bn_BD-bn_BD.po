@@ -3,36 +3,35 @@ msgstr ""
 "Project-Id-Version: wp-forecast 1.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-26 20:02+0200\n"
-"PO-Revision-Date: 2009-07-07 06:25+0100\n"
-"Last-Translator: Hans Matzen <webmaster ät tuxlog dot  de>\n"
+"PO-Revision-Date: 2013-10-12 14:31+0600\n"
+"Last-Translator: Sekander Badsha <badsha_eee@yahoo.com>\n"
 "Language-Team: \n"
-"Language: \n"
+"Language: bn_BD\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: Eng\n"
-"X-Poedit-Country: UNITED STATES\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.7\n"
 
 #: class-wpf_widget.php:73 wp-forecast-admin.php:102
 msgid "Title:"
-msgstr "Title:"
+msgstr "শিরোনামঃ"
 
 #: class-wpf_widget.php:81 wp-forecast-admin.php:222
 msgid "Available widgets"
-msgstr "Available widgets"
+msgstr "ব্যবহারযোগ্য উইজেটস"
 
 #: func_bug.php:222
 msgid "Location does not exist"
-msgstr ""
+msgstr "এলাকাটি পাওয়া যায়নি"
 
 #: func_bug.php:362 func_bug.php:389 xgettextdummy.php:150
 msgid "Unknown"
-msgstr ""
+msgstr "অজানা"
 
 #: shortcodes.php:40
 msgid "wp-forecast shortcode: This browser does not support iframes."
-msgstr ""
+msgstr "wp-forecast shortcode: এই ব্রাউজারটি iframes সমর্থন করে না।"
 
 #: wp-forecast-admin.php:105
 msgid "widget_hint"
@@ -40,7 +39,7 @@ msgstr "widget_hint"
 
 #: wp-forecast-admin.php:210 wp-forecast.php:375
 msgid "How many wp-forecast widgets would you like?"
-msgstr "How many wp-forecast widgets would you like?"
+msgstr "আপনি কতগুলো wp-forecast widget চান ?"
 
 #: wp-forecast-admin.php:219 wp-forecast-admin.php:245
 #: wp-forecast-admin.php:261 wp-forecast-admin.php:270 wp-forecast.php:384
