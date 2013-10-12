@@ -44,11 +44,11 @@ msgstr "আপনি কতগুলো wp-forecast widget চান ?"
 #: wp-forecast-admin.php:219 wp-forecast-admin.php:245
 #: wp-forecast-admin.php:261 wp-forecast-admin.php:270 wp-forecast.php:384
 msgid "Save"
-msgstr "Save"
+msgstr "সংরক্ষণ"
 
 #: wp-forecast-admin.php:238
 msgid "Select widget"
-msgstr "Select widget"
+msgstr "উইজেট নির্বাচন করুন"
 
 #: wp-forecast-admin.php:243 wpf_sa_admin.php:218
 #, fuzzy
@@ -65,12 +65,12 @@ msgstr ""
 
 #: wp-forecast-admin.php:265 wpf_sa_admin.php:241
 msgid "Delete options during plugin deactivation?"
-msgstr "Delete options during plugin deactivation?"
+msgstr "প্লাগিন নিস্ক্রিয় করার সময় অপশন গুলো মুছে ফেলতে চান ?"
 
 #: wp-forecast-admin.php:273
 #, fuzzy
 msgid "Check connection to Weatherprovider"
-msgstr "Link to Weatherprovider"
+msgstr "আবহাওয়া তথ্য সরবরাহকারীর সাথে সংযোগ পরীক্ষা করুন"
 
 #: wp-forecast-admin.php:442 wpf_sa_admin.php:192
 msgid "Settings successfully updated"
